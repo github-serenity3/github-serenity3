@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @github-serenity3
+- 👀 I’m interested in Python, C++, HTML, CSS
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: patty_sally@mail.ru
